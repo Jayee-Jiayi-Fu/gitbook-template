@@ -69,7 +69,7 @@ git push -u origin master
 
 - 它会根据 master 分支上的变更重构建 gitbook，然后推送到远程仓库的 gh-pages 分支上。
 
-  ![新分支 gh-pages](http://q5frcy1n7.bkt.clouddn.com/images/gitbook/gitbook-template/gh-pages.JPG)
+  ![新分支 gh-pages](http://q5frcy1n7.bkt.clouddn.com/images/gitbook/gitbook-template/ghpages.JPG)
 
 * Travis CI 的对应仓库中，会显示详细的集成进度和最后的集成结果，如下图所示：
 
