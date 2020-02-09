@@ -71,11 +71,11 @@ git push -u origin master
 
   ![新分支 gh-pages](http://q5frcy1n7.bkt.clouddn.com/images/gitbook/gitbook-template/gh-pages.JPG)
 
-- Travis CI 的对应仓库中，会显示详细的集成进度和最后的集成结果，如下图所示：
+* Travis CI 的对应仓库中，会显示详细的集成进度和最后的集成结果，如下图所示：
 
   ![集成结果](http://q5frcy1n7.bkt.clouddn.com/images/gitbook/gitbook-template/joblog.JPG)
 
-- 最后还要在项目 `Settings` 中配置 `GitHub Pages`
+* 最后还要在项目 `Settings` 中配置 `GitHub Pages`
 
   ![配置GitHub Pages](http://q5frcy1n7.bkt.clouddn.com/images/gitbook/gitbook-template/github-pages.JPG)
 
@@ -85,20 +85,20 @@ git push -u origin master
 
 - 建议直接授权个人 GitHub 账号登录 GitBook。然后点击 `Create a new space` 按钮新建一个与仓库同名的 gitbook：
 
-  ![gitbook](http://q5frcy1n7.bkt.clouddn.com/images/gitbook/gitbook-template/create-gitbook.JPG|center)
+  ![gitbook](http://q5frcy1n7.bkt.clouddn.com/images/gitbook/gitbook-template/create-gitbook.JPG)
 
 - 进入编辑页面后，打开 GitHub 关联按钮，然后选择对应仓库：
 
-  ![gitbook-github](http://q5frcy1n7.bkt.clouddn.com/images/gitbook/gitbook-template/gitbook-github.JPG|center)
+  ![gitbook-github](http://q5frcy1n7.bkt.clouddn.com/images/gitbook/gitbook-template/gitbook-github.JPG)
 
   ![link-github](http://q5frcy1n7.bkt.clouddn.com/images/gitbook/gitbook-template/link-github.JPG)
 
 - 成功连接仓库后，就可以进行正常编辑。编辑完后，点击保存按钮，就可以看到当前的变更信息。再点击 merge 按钮，变更就会在合并后被 push 到远程仓库，然后触发 Travis CI 集成。
 
-  ![gitbook-merge](http://q5frcy1n7.bkt.clouddn.com/images/gitbook/gitbook-template/gitbook-merge.JPG|center)
+  ![gitbook-merge](http://q5frcy1n7.bkt.clouddn.com/images/gitbook/gitbook-template/gitbook-merge.JPG)
 
 ## Step7:
 
 GitHub Pages 中给出了最终 gitbook 的访问地址：https://jayee-jiayi-fu.github.io/gitbook-javascript-notes
 
-![gitbook](http://q5frcy1n7.bkt.clouddn.com/images/gitbook/gitbook-template/gitbook.JPG | center)
+![gitbook](http://q5frcy1n7.bkt.clouddn.com/images/gitbook/gitbook-template/gitbook.JPG)
