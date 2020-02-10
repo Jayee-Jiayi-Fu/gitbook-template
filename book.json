@@ -1,0 +1,55 @@
+{
+  "title": "gitbook-template",
+  "language": "zh-hans",
+  "author": "Jayee",
+  "description": "快速构建一本gitbook",
+  "plugins": [
+    "-lunr",
+    "-sharing",
+    "-fontsettings",
+    "-search",
+    "search-pro",
+    "splitter",
+    "expandable-chapters",
+    "chapter-fold",
+    "cuav-chapters",
+    "heading-anchors",
+    "editlink",
+    "pageview-count",
+    "github-buttons",
+    "code",
+    "todo",
+    "page-footer-ex",
+    "back-to-top-button",
+    "theme-fexa"
+  ],
+  "pluginsConfig": {
+    "theme-fexa": {
+      "search-placeholder": "输入关键字搜索",
+      "logo": "./logo.png",
+      "favicon": "./favicon.ico"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "user": "jayee-jiayi-fu",
+          "repo": "gitbook-template",
+          "type": "star",
+          "size": "small",
+          "count": true
+        }
+      ]
+    },
+    "page-footer-ex": {
+      "copyright": "By [Jayee](https://github.com/jayee-jiayi-fu)",
+      "markdown": true,
+      "update_label": "<i>modified at </i>",
+      "update_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "editlink": {
+      "base": "https://github.com/jayee-jiayi-fu/gitbook-template/blob/master",
+      "label": "Edit THIS PAGES",
+      "multilingual": false
+    }
+  }
+}
