@@ -23,10 +23,21 @@
     "back-to-top-button",
     "theme-fexa"
   ],
+  "variables": {
+    "themeFexa": {
+      "nav": [
+        {
+          "url": "http://https://jayee-jiayi-fu.github.io/",
+          "target": "_blank",
+          "name": "Home"
+        }
+      ]
+    }
+  },
   "pluginsConfig": {
     "theme-fexa": {
       "search-placeholder": "输入关键字搜索",
-      "logo": "./logo.png",
+      "logo": "./logo.jpg",
       "favicon": "./favicon.ico"
     },
     "github-buttons": {
