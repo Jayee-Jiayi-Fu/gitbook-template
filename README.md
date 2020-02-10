@@ -200,7 +200,7 @@ $ gitbook build
 |                                        redirect                                        | 页面跳转                                                         |
 |                                        jsfiddle                                        | 插入 JSFiddle 组件                                               |
 |                                         jsbin                                          | 插入 JSBin 组件                                                  |
-|          [theme-fexa](https://github.com/tonyyls/gitbook-plugin-theme-fexa ）          | 主题插件                                                         |
+|           [theme-fexa](https://github.com/tonyyls/gitbook-plugin-theme-fexa)           | 主题插件                                                         |
 
 在 book.json 文件的 plugins 和 pluginsConfig 字段添加插件及相关配置。添加完后进行安装：
 
